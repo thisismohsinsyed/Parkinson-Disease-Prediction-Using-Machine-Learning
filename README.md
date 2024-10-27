@@ -24,7 +24,7 @@ cd Parkinson-Disease-Prediction-Using-Machine-Learning
 ```
 
 ## Usage
-The script can be executed in a Python environment that supports Jupyter Notebook or as a standalone Python script. Ensure the dataset file `Parkinsson disease.csv` is in the root directory.
+The script can be executed in a Python environment that supports Jupyter Notebook or as a standalone Python script. Ensure the dataset file `Parkinsson disease.csv` can be downloaded from the link mentioned above.
 
 ## Model Description
 The logistic regression model was trained after preprocessing the data which involved scaling features between -1 and 1 and handling missing values. The features were selected based on their correlation and impact on the model's accuracy.
