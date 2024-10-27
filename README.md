@@ -18,8 +18,8 @@ The dataset used for this project can be found at [Parkinson's Disease Data Set]
 ## Installation
 To run this project locally, clone the repository and install the necessary packages:
 ```bash
-git clone <[repository-url](https://github.com/thisismohsinsyed/Parkinson-Disease-Prediction-Using-Machine-Learning)>
-cd <Parkinson-Disease-Prediction-Using-Machine-Learning>
+git clone https://github.com/thisismohsinsyed/Parkinson-Disease-Prediction-Using-Machine-Learning
+cd Parkinson-Disease-Prediction-Using-Machine-Learning
 
 ```
 
